@@ -3,9 +3,9 @@ This is a sample project for CLI which is implemented focusing on extensibility;
 
 # Plugins:
 So far I have implemented the following npm scopped plugins:
-- [@amir-cli/cli-get](@amir-cli/cli-get)
-- [@amir-cli/cli-set](@amir-cli/cli-set)
-- [@amir-cli/cli-init](@amir-cli/cli-init)
+- [@amir-cli/cli-get](https://www.npmjs.com/package/@amir-cli/cli-get)
+- [@amir-cli/cli-set](https://www.npmjs.com/package/@amir-cli/cli-set)
+- [@amir-cli/cli-init](https://www.npmjs.com/package/@amir-cli/cli-init)
 
 # Contribution form the community:
 Please feel free to send pull requests to plugin your newly implemented connectors so the community can take advantege of it as well.
