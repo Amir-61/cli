@@ -1,0 +1,29 @@
+{
+  "name": "cli",
+  "type": "module",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "bin": {
+    "jsonp": "index.js"
+  },
+  "scripts": {
+    "test": "mocha"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@amir-cli/cli-get": "^1.0.1",
+    "@amir-cli/cli-init": "^1.0.1",
+    "@amir-cli/cli-set": "^1.0.2",
+    "chalk": "^5.0.1",
+    "commander": "^8.1.0",
+    "fs": "^0.0.1-security",
+    "node-fetch": "^2.6.1"
+  },
+  "devDependencies": {
+    "mocha": "^10.0.0",
+    "mock-fs": "^5.1.2"
+  }
+}
