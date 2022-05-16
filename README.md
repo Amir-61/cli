@@ -1,6 +1,10 @@
 # CLI
 This is a sample project for CLI which is implemented focusing on extensibility; that means for any command community wants to extend they can simply introduce their own connector and plug it in.
 
+![image](https://user-images.githubusercontent.com/10672146/168501922-dc86d213-8895-4903-9009-ff6cb8b633e1.png)
+
+
+
 # Plugins:
 So far I have implemented the following npm scopped plugins:
 - **NPM:** [@amir-cli/cli-get](https://www.npmjs.com/package/@amir-cli/cli-get), **GITHUB:** [cli-get](https://github.com/Amir-61/cli-get)
